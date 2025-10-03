@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+
+	int A = 17;
+	int B = 890;
+	if (A != B) {
+		A = B;
+	}
+	cout << A << '\n' << B << '\n';
+}
