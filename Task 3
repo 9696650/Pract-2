@@ -8,5 +8,5 @@ int main() {
 	if (A != B) {
 		A = B;
 	}
-	cout << A << '\n' << B << '\n';
+	cout << A  << B ;
 }
